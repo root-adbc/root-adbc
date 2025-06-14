@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Welcome to My Cybersecurity & Forex Journey!
 
-<!--
-**root-adbc/root-adbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Abdulghafar, passionate about both Cybersecurity and Forex Trading 🚀
 
-Here are some ideas to get you started:
+## 🛡 Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Google Cybersecurity Professional Certificate (In Progress)
+- Penetration Testing (Upcoming)
+- Cloud Security Engineer Roadmap (Building!)
+- OSINT & Bug Bounty Learning
+
+## 📊 Forex Trading
+
+- Technical Analysis
+- Strategy Backtesting
+- Risk Management
+- Algorithmic Trading (Python Projects Coming!)
+
+## 🧰 Current Tools I'm Practicing With:
+
+- Nmap, Nikto, Burp Suite, OWASP ZAP, SQLMap, Metasploit
+- Python, Linux (Kali), Bash scripting
+- TradingView, MT5, Forex Backtesting Tools
+
+## 🛠 Work in Progress
+
+- Vulnerability Labs Documentation
+- Google Dork Collection
+- Forex Algo Projects
+- Cloud Security Labs
+
+📫 **Follow my journey as I build, break, and secure!**
