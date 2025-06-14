@@ -1,32 +1,31 @@
-# 👋 Welcome to My Cybersecurity & Forex Journey!
+# 👋 Hi, I'm Temitayo Adebisi
 
-I am Temitayo Adebisi, passionate about both Cybersecurity and Forex Trading 🚀
+🌐 Cybersecurity Enthusiast | 📈 Forex Trader | ☁️ Cloud Security Student
 
-## 🛡 Cybersecurity
+---
 
-- Google Cybersecurity Professional Certificate (In Progress)
-- Penetration Testing (Upcoming)
-- Cloud Security Engineer Roadmap (Building!)
-- OSINT & Bug Bounty Learning
+## 🚀 Current Learning:
 
-## 📊 Forex Trading
+- ✅ Google Cybersecurity Professional Certificate
+- ✅ Penetration Testing Course (Coming Up)
+- ✅ Cloud Security Engineer Pathway
+- ✅ Forex Technical Analysis & Algo Trading
 
-- Technical Analysis
-- Strategy Backtesting
-- Risk Management
-- Algorithmic Trading (Python Projects Coming!)
+---
 
-## 🧰 Current Tools I'm Practicing With:
+## 🧰 Tools I'm Practicing:
 
-- Nmap, Nikto, Burp Suite, OWASP ZAP, SQLMap, Metasploit
-- Python, Linux (Kali), Bash scripting
-- TradingView, MT5, Forex Backtesting Tools
+- Nmap, Nikto, SQLMap, Metasploit, Burp Suite, OWASP ZAP
+- Python, Bash, Linux (Kali)
+- TradingView, MT5, Forex Algo Backtesting
+- AWS, Azure, GCP (Cloud Security Labs)
 
-## 🛠 Work in Progress
+---
 
-- Vulnerability Labs Documentation
-- Google Dork Collection
-- Forex Algo Projects
-- Cloud Security Labs
+## 💡 Why this repo exists
 
-📫 **Follow my journey as I build, break, and secure!**
+This GitHub serves as my personal documentation, portfolio, and growth tracker as I combine Cybersecurity, Forex Trading, and Cloud Security into my career.
+
+---
+
+📫 **Let’s connect as I build, break, secure and automate.**
