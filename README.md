@@ -7,7 +7,7 @@
 ## 🚀 Current Learning:
 
 - ✅ Google Cybersecurity Professional Certificate
-- ✅ Penetration Testing Course (Coming Up)
+- ✅ Penetration Testing Course 
 - ✅ Cloud Security Engineer Pathway
 - ✅ Forex Technical Analysis & Algo Trading
 
