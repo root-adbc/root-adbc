@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Temitayo Adebisi
+# 👋 Hi, I'm Temitayo 
 
 🌐 Cybersecurity Enthusiast | 📈 Forex Trader | ☁️ Cloud Security Student
 
