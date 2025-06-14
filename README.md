@@ -1,6 +1,6 @@
 # 👋 Welcome to My Cybersecurity & Forex Journey!
 
-I am Abdulghafar, passionate about both Cybersecurity and Forex Trading 🚀
+I am Temitayo Adebisi, passionate about both Cybersecurity and Forex Trading 🚀
 
 ## 🛡 Cybersecurity
 
